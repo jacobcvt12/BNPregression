@@ -1,0 +1,9 @@
+Package: BNPregression
+Title: Bayesian Nonparametric Regression
+Version: 0.0.0.9000
+Authors@R: person("Jacob", "Carey", email = "jacobcvt12@gmail.com", role = c("aut", "cre"))
+Description: Bayesian Nonparametric Regression
+Depends: R (>= 3.3.1)
+License: GNU-3.0
+Encoding: UTF-8
+LazyData: true
